@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://abir123:abir123@cluster0.gfyph.mongodb.net/contact_list?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
